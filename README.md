@@ -11,4 +11,8 @@ La base de datos cuenta con la siguiente información:
 - “espesor”. Espesor del desplazamiento en el lado de succión, en metros.
 - “presion”. Nivel escalado de presión sonora, en dB.
 
-  
+Este proyecto incluye los siguientes documentos:
+
+- Reporte en formato ipynb
+- Reporte en formato html
+- Base de datos
